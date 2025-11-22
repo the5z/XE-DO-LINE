@@ -5,7 +5,8 @@
 Hãy tưởng tượng một hệ thống robot thông minh, tự động lướt qua những đường cong ngoằn ngoèo trên bản đồ thử nghiệm, phát hiện và né tránh chướng ngại vật một cách tinh tế, rồi quay trở lại quỹ đạo ban đầu với độ chính xác đáng kinh ngạc. Dự án này không chỉ là một mô hình Arduino đơn giản mà còn là minh chứng sống động cho sức mạnh của thuật toán PID trong điều khiển tự động hóa. Sử dụng mảng cảm biến hồng ngoại TCRT5000 5 LED để dò đường line đen, robot cân bằng hoàn hảo giữa tốc độ và độ chính xác, được điều khiển bởi driver TB6612FNG cho hai motor DC giảm tốc N20, đồng thời tích hợp cảm biến siêu âm HC-SR04 để xử lý tình huống khẩn cấp. Đây là hướng dẫn chi tiết, dễ theo dõi, giúp bạn – từ sinh viên đến kỹ sư – tái tạo và mở rộng dự án một cách dễ dàng.
 
 ## Poster
-![Poster](poster.png)  
+[Poster_Nhom3.pptx.pdf](https://github.com/user-attachments/files/23690247/Poster_Nhom3.pptx.pdf)
+png)  
 *(Hình ảnh minh họa hệ thống robot, sơ đồ tổng quan và kết quả thử nghiệm thực tế.)*
 
 ## Mục Tiêu Chức Năng
